@@ -12,4 +12,6 @@ web/*
 !web/robots.txt
 !web/tinymce/
 !web/css_static/
+!web/images/
+!web/.htaccess
 .project 
